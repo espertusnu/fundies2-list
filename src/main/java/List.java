@@ -2,7 +2,7 @@ public interface List<T> {
     /**
      * Gets the number of items in this list.
      *
-     * @return the number of items in this list.
+     * @return the number of items in this list
      */
     int size();
 
