@@ -2,7 +2,7 @@ public interface ListOfString {
     /**
      * Gets the number of strings in this list.
      *
-     * @return the number of strings in this list.
+     * @return the number of strings in this list
      */
     int size();
 
